@@ -1,4 +1,5 @@
 Run the specs through parallel_rspec and it returns 1 pending only:
+  
   `parallel_rspec spec/`
 
 ```
